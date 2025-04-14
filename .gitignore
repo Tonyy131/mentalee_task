@@ -1,0 +1,11 @@
+.DS_Store
+*.tmp
+*.bak
+*.swp
+*.swo
+*.user
+*.userprefs
+*.pidb
+*.sln
+*.csproj
+*.suo
